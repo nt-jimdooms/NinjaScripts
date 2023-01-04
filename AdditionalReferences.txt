@@ -1,0 +1,3 @@
+*ProgramFiles*\NinjaTrader 8\bin\InfragisticsWPF4.Editors.v15.1.dll
+*ProgramFiles*\NinjaTrader 8\bin\InfragisticsWPF4.v15.1.dll
+*ProgramFiles*\NinjaTrader 8\bin\System.Windows.Controls.WpfPropertyGrid.dll
